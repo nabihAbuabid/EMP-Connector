@@ -1,0 +1,10 @@
+
+g	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¾ïÓ­ã0
+g	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(Ëƒóùÿÿÿÿ8ÁïÓ­ã0
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ü¹èº8›òÊêá0
+U	java:S106M"9Replace this use of System.out or System.err by a logger.(¤ñõ§8¨òÊêá0
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(¸—–¯úÿÿÿÿ8©òÊêá0
+U	java:S106V"9Replace this use of System.out or System.err by a logger.(ıÛï²8«òÊêá0
+U	java:S106Z"9Replace this use of System.out or System.err by a logger.(¾ª¶ã8°òÊêá0
+n
+java:S3457Z"Q%n should be used in place of \n to produce the platform-specific line separator.(¾ª¶ã8°òÊêá0

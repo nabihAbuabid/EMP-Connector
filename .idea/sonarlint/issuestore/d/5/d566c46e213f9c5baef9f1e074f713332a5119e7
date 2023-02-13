@@ -1,0 +1,25 @@
+
+F
+java:S1066î"/Merge this if statement with the enclosing one.(ÁßÔÀ
+v
+java:S1104i"`Make REPLAY_FROM_EARLIEST a static final constant or non-public and provide accessors if needed.(Ö„ŸÈ
+v
+java:S1104j"[Make REPLAY_FROM_TIP a static final constant or non-public and provide accessors if needed.(€ÀÖ‰üÿÿÿÿ
+P
+java:S1444i":Make this "public static REPLAY_FROM_EARLIEST" field final(Ö„ŸÈ
+P
+java:S1444j"5Make this "public static REPLAY_FROM_TIP" field final(€ÀÖ‰üÿÿÿÿ
+u
+java:S3008i"_Rename this field "REPLAY_FROM_EARLIEST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö„ŸÈ
+u
+java:S3008j"ZRename this field "REPLAY_FROM_TIP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÀÖ‰üÿÿÿÿ
+n
+java:S3008l"XRename this field "AUTHORIZATION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÄ½·
+m
+java:S3077o"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Ûçâ¦
+P
+java:S1611Y"5Remove the parentheses around the "message" parameter(Åà»áÿÿÿÿÿ
+K
+java:S1611·"/Remove the parentheses around the "m" parameter(ïòéÈúÿÿÿÿ
+H
+java:S3398Û",Move this method into "AuthFailureListener".(œÉ¾ýûÿÿÿÿ

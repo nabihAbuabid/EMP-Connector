@@ -1,0 +1,19 @@
+
+q
+Asrc/main/java/com/salesforce/emp/connector/TopicSubscription.java,a/d/ad427e4927d65591f964ad733cf4c66a5964e841
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+z
+Jsrc/main/java/com/salesforce/emp/connector/DelegatingBayeuxParameters.java,8/2/829ae91a4cf96a75f0cc5f6702422e6b5f86162a
+p
+@src/main/java/com/salesforce/emp/connector/BayeuxParameters.java,7/f/7fdeb22a938af3fa23af74dfcad2f1201b4b6da5
+l
+<src/main/java/com/salesforce/emp/connector/EmpConnector.java,d/5/d566c46e213f9c5baef9f1e074f713332a5119e7
+z
+Jsrc/main/java/com/salesforce/emp/connector/example/BearerTokenExample.java,1/6/16b645eb50106868027a8d04810b959fcf6244af
+o
+?src/main/java/com/salesforce/emp/connector/ReplayExtension.java,3/e/3e56a89088bc52f960bf5fa306249a94558f5f88
+w
+Gsrc/main/java/com/salesforce/emp/connector/example/DevLoginExample.java,9/4/94b853723a2a8d40d5c35212031941a4e1cc77be
